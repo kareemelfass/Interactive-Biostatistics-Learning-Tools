@@ -43,6 +43,24 @@ Topics covered:
 
 ---
 
+### 3. Confidence Interval Lab
+
+Learn the frequentist meaning of a confidence interval by generating repeated samples and watching which intervals contain the fixed true population parameter.
+
+**[Open the live Confidence Interval Lab](https://kareemelfass.github.io/p-value-lab/confidence-interval/)**
+
+Topics covered:
+- Correct frequentist interpretation of a confidence interval
+- Long-run coverage under repeated sampling
+- Common 95% CI interpretation myth
+- Effect of confidence level on interval width and coverage
+- Effect of sample size on precision
+- Confidence intervals versus Bayesian credible intervals
+- Relationship between a 95% CI and a two-sided p-value
+- Null values for differences and ratio measures
+
+---
+
 ## More tools are coming
 
 This repository is the central index for the **Interactive Biostatistics Learning Tools** collection. Future simulations, calculators, and guided statistical demonstrations will be added here as they are developed.
