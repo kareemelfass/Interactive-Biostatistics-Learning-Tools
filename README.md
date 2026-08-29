@@ -61,6 +61,25 @@ Topics covered:
 
 ---
 
+### 4. Q–Q Plot Lab
+
+Build a normal Q–Q plot point by point, connect percentiles to theoretical normal quantiles, and learn how common distributional departures change the plot.
+
+**[Open the live Q–Q Plot Lab](https://kareemelfass.github.io/p-value-lab/qq-plot/)**
+
+Topics covered:
+- Percentiles and quantiles
+- Normal, skewed, and heavy-tailed distributions
+- Step-by-step Q–Q plot construction
+- Theoretical normal quantiles
+- Right and left skew
+- Heavy and light tails
+- Outliers and mixture distributions
+- Sample-size effects and random sampling variation
+- Interactive Q–Q interpretation challenges
+
+---
+
 ## More tools are coming
 
 This repository is the central index for the **Interactive Biostatistics Learning Tools** collection. Future simulations, calculators, and guided statistical demonstrations will be added here as they are developed.
