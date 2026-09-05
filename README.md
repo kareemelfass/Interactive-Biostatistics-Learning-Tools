@@ -80,6 +80,21 @@ Topics covered:
 
 ---
 
+### 5. KMunicate Kaplan–Meier Lab
+
+Compare a conventional Kaplan–Meier plot with the KMunicate reporting format using the same illustrative data. See how confidence intervals and an extended risk table reveal uncertainty and the participant status behind late follow-up.
+
+**[Open the live KMunicate Kaplan–Meier Lab](https://kareemelfass.github.io/p-value-lab/kmunicate/)**
+
+Topics covered:
+- Standard versus KMunicate Kaplan–Meier presentation
+- Confidence intervals around survival estimates
+- Numbers at risk, cumulative events and cumulative censoring
+- The effect of sample size, censoring and treatment effect on interpretation
+- Reproducible KMunicate-style plots in R
+
+---
+
 ## More tools are coming
 
 This repository is the central index for the **Interactive Biostatistics Learning Tools** collection. Future simulations, calculators, and guided statistical demonstrations will be added here as they are developed.
