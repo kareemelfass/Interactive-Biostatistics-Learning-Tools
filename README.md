@@ -93,6 +93,27 @@ Topics covered:
 - The effect of sample size, censoring and treatment effect on interpretation
 - Reproducible KMunicate-style plots in R
 
+
+---
+
+### 6. Penalised Regression Learning Lab
+
+Learn when and why to use penalised regression, then explore ridge, lasso, and elastic net interactively using the same simulated dataset.
+
+**[Open the live Penalised Regression Learning Lab](https://kareemelfass.github.io/p-value-lab/penalised-regression/)**
+
+Topics covered:
+- When penalised regression is useful
+- Shrinkage and regularisation
+- Ridge, lasso, and elastic net
+- L1 and L2 penalties
+- Lambda and alpha
+- Variable selection with lasso and elastic net
+- Coefficient paths
+- Cross-validation for lambda
+- Correlated-predictor selection instability
+- Practical method-selection decisions
+
 ---
 
 ## More tools are coming
