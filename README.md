@@ -116,6 +116,29 @@ Topics covered:
 
 ---
 
+### 7. Propensity Score Learning Lab
+
+Learn propensity-score methods as a causal design workflow rather than a treatment-prediction exercise. Work through estimands, assumptions, covariate selection, weighting, diagnostics, effective sample size, survival analysis, doubly robust estimation, and sensitivity analyses.
+
+**[Open the live Propensity Score Learning Lab](https://kareemelfass.github.io/p-value-lab/propensity-score/)**
+
+Topics covered:
+- Causal questions, counterfactuals, and identification assumptions
+- Propensity-score calculation with logistic regression
+- Covariate selection and causal structure
+- ATE, ATT, and ATO estimands
+- IPTW, stabilised IPTW, overlap weighting, and matching
+- SMDs and Love plots
+- Propensity-score overlap and positivity
+- Extreme weights and effective sample size
+- Why treatment AUC is not a causal validation metric
+- Weighted survival curves, RMST, weighted Cox models, and IPCW
+- AIPW and doubly robust estimation
+- Unmeasured confounding and sensitivity analyses
+
+
+---
+
 ## More tools are coming
 
 This repository is the central index for the **Interactive Biostatistics Learning Tools** collection. Future simulations, calculators, and guided statistical demonstrations will be added here as they are developed.
